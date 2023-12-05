@@ -14,6 +14,9 @@ We looked for correlations among the important parameters and found certain resu
 ![image](https://github.com/naman-toshniwal/Machine-Learning/assets/109726889/d26cd375-c1cc-4209-981d-d299e5d34292)
 
 We finally created a pipeline and implemented the Random Forest Regressor and found certain results:
+
 Scores:  [2.76376402 2.70337018 4.36721533 2.29349612 3.50345822 2.66559903 4.75851699 3.37924755 3.44871916 3.17262874]
+
 Mean:  3.305601532666281
+
 Standard Deviation:  0.7355918465245224
